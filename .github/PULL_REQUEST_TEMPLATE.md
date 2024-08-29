@@ -12,19 +12,19 @@ TITLE: Include your section in the pull request title
 ## What section are you in:
 
 - [ ] Tuesday
-- [ ] Wednesday
+- [x] Wednesday
 - [ ] Thursday
 - [ ] Friday 3pm
 - [ ] Friday 6pm
 
 **Is the solution complete?**
 
-[Yes/No]
+[Yes]
 
 **Did you run into any problems?**
 
-[Describe...]
+[yes i didnt know how to add height to the elements which youll see]
 
 **Did you collaborate with others on this solution?**
-
+no
 <!-- Provide collaborators github usernames -->
